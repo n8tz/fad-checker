@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Generated reports
+fad-check-report/
+melino-report/
+sample-melino-report/
+*-report/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Session-local agent state
+.claude/
+
+# OS junk
+Thumbs.db
